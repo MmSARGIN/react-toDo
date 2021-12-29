@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    font-family:sans-serif
+}
+
+.completed{
+    text-decoration: line-through;
+    list-style:circle;
+    
+    
+}
+.add {
+    padding: 15px;
+    border-radius: 50px;
+    margin-left: 5px;
+}
+input{
+   
+    padding: 15px;
+    border-radius: 50px;
+}
+.deleted {
+    padding: 5px;
+    border-radius: 50px;
+    width:20%;
+}
